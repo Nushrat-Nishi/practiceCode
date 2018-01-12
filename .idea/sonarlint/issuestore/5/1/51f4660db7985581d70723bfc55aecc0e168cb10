@@ -1,0 +1,12 @@
+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8ø£§í+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(öòê8ø£§í+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(³ÏÊ¸8Òµ’í+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(¿çŞŒøÿÿÿÿ8ÿ¬Íí+
+Osquid:S1481".Remove this unused "sameCount" local variable.(»Ğ¤»ùÿÿÿÿ8ò±ıí+
+_squid:S1155">Use isEmpty() to check whether the collection is empty or not.(µ‘çÑùÿÿÿÿ8×§ğí+
+Msquid:S1481"1Remove this unused "notSameCount" local variable.(Øı«æ8ò±ıí+
+nsquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 26 to the 15 allowed.(Çµí‘8“‚í+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8óè©í+
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(“¾ÿ½

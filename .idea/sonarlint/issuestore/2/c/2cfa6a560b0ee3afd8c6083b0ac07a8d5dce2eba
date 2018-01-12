@@ -1,0 +1,12 @@
+
+\squid:S2259"BA "NullPointerException" could be thrown; "root" is nullable here.(ı §øÿÿÿÿ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æ¦”‰
+Usquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
+@squid:UselessImportCheck"Remove this duplicated import.(÷‰îƒ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Èòö
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ê€™
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(¡‡¿·

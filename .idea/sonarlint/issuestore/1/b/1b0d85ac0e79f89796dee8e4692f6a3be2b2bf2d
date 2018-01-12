@@ -1,0 +1,7 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ââý8Ê×£î÷+
+Ysquid:S1226">Introduce a new variable instead of reusing the parameter "n".(ŒØÍV8ö³©í÷+
+Zsquid:S1226">Introduce a new variable instead of reusing the parameter "n".(„Žðç8ö³©í÷+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ò¬†Éþÿÿÿÿ
+hsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÍÊ˜ÿüÿÿÿÿ

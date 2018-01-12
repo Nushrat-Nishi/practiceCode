@@ -1,0 +1,11 @@
+
+Usquid:S3400"9Remove this method and declare a constant for this value.(±®÷®8ò‚ç×ù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(¢Û‚8Ê‡’Øù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(±”·¼8ò‚ç×ù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ïåê¸8ò‚ç×ù+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ø¬£–úÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(ß’8ò‚ç×ù+

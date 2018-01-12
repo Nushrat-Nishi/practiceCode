@@ -1,0 +1,19 @@
+
+[squid:S1118":Add a private constructor to hide the implicit public one.(ÿà¦€ùÿÿÿÿ8ƒ×éÀç+
+Vsquid:S2209"5Change this instance-reference to a static reference.(›ïÛ“ýÿÿÿÿ8ÈÝëÀç+
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ÿ·ÇÏþÿÿÿÿ8È²ñÀç+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¾¼ŸÝ8ï¯íÀç+
+Psquid:S2209"5Change this instance-reference to a static reference.(Áéô-8ƒ×éÀç+
+bsquid:S2259"G"NullPointerException" will be thrown when invoking method "checker()".(Áéô-8ãâÁç+
+S
+squid:S106"9Replace this use of System.out or System.err by a logger.(ü„ê!8ƒ×éÀç+
+Psquid:S2209"5Change this instance-reference to a static reference.(Áéô-8ƒ×éÀç+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ÖÐ‘øÿÿÿÿ8„œÁç+
+Bsquid:S2440"&Remove this instantiation of "MyMath".(ôæÕº8ƒ×éÀç+
+bsquid:S2259"G"NullPointerException" will be thrown when invoking method "checker()".(Áéô-8×¶ïÀç+
+bsquid:S2259"G"NullPointerException" will be thrown when invoking method "checker()".(Áéô-8ð©ÙÃç+
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(æÇóëûÿÿÿÿ8ƒ×éÀç+
+Psquid:S2209"5Change this instance-reference to a static reference.(Áéô-8ƒ×éÀç+
+Vsquid:S2209"5Change this instance-reference to a static reference.(öÞèµûÿÿÿÿ8ÈÝëÀç+
+Qsquid:S2209"5Change this instance-reference to a static reference.(É“½³8ÈÝëÀç+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀçµÛ8ð©ÙÃç+

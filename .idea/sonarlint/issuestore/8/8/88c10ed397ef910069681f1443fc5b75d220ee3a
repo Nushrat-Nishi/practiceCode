@@ -1,0 +1,7 @@
+
+Bsquid:S1068"&Remove this unused "id" private field.(æ¨ç†8±ÿÇ”ú+
+Jsquid:S1068")Remove this unused "email" private field.(ª«Õìùÿÿÿÿ8ÚÙ “ú+
+usquid:S1450"TRemove the "email" field and declare it as a local variable in the relevant methods.(ª«Õìùÿÿÿÿ8ÚÙ “ú+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8±ÿÇ”ú+
+msquid:S1450"QRemove the "id" field and declare it as a local variable in the relevant methods.(æ¨ç†8±ÿÇ”ú+

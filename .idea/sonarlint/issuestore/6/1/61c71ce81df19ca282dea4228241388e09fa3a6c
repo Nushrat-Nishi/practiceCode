@@ -1,0 +1,20 @@
+
+Vsquid:S1854"5Remove this useless assignment to local variable "b".(Üìæ¥úÿÿÿÿ8É©ªë+
+Qsquid:S1854"5Remove this useless assignment to local variable "a".(§î¨Ö8É©ªë+
+Dsquid:S1604"(Make this anonymous inner class a lambda(¬›–ñ8É©ªë+
+Hsquid:S1481",Remove this unused "checker" local variable.(™¢ÉÌ8É©ªë+
+zsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢•«Ëşÿÿÿÿ8É©ªë+
+Bsquid:S1481"&Remove this unused "a" local variable.(§î¨Ö8É©ªë+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8É©ªë+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(µÍ†øÿÿÿÿ8É©ªë+
+Wsquid:S1854";Remove this useless assignment to local variable "checker".(™¢ÉÌ8É©ªë+
+rsquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(†Öô¸úÿÿÿÿ8É©ªë+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8É©ªë+
+tsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(“¾ÿ½8É©ªë+
+fsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ˆÓ¢m8É©ªë+
+Gsquid:S1481"&Remove this unused "b" local variable.(Üìæ¥úÿÿÿÿ8É©ªë+
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÀÀÉÇıÿÿÿÿ8É©ªë+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(†Öô¸úÿÿÿÿ8É©ªë+

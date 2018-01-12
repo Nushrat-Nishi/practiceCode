@@ -1,0 +1,80 @@
+priorityQueue:
+[Students{id=50, name='John', cgpa=3.75}]
+
+priorityQueue:
+[Students{id=24, name='Mark', cgpa=3.8},
+Students{id=50, name='John', cgpa=3.75}]
+
+[Students{id=35, name='Shafaet', cgpa=3.7},
+Students{id=24, name='Mark', cgpa=3.8},
+Students{id=50, name='John', cgpa=3.75}]
+priorityQueue:
+[Students{id=24, name='Mark', cgpa=3.8},
+Students{id=50, name='John', cgpa=3.75},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=50, name='John', cgpa=3.75},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=36, name='Samiha', cgpa=3.85},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=42, name='Ashley', cgpa=3.9},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=42, name='Ashley', cgpa=3.9},
+Students{id=35, name='Shafaet', cgpa=3.7},
+Students{id=46, name='Maria', cgpa=3.6}]
+
+priorityQueue:
+[Students{id=49, name='Anik', cgpa=3.95},
+Students{id=42, name='Ashley', cgpa=3.9},
+Students{id=46, name='Maria', cgpa=3.6},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+
+priorityQueue:
+[Students{id=49, name='Anik', cgpa=3.95},
+Students{id=50, name='Dan', cgpa=3.95},
+Students{id=46, name='Maria', cgpa=3.6},
+Students{id=35, name='Shafaet', cgpa=3.7},
+Students{id=42, name='Ashley', cgpa=3.9}]
+
+priorityQueue:
+[Students{id=50, name='Dan', cgpa=3.95},
+Students{id=42, name='Ashley', cgpa=3.9},
+Students{id=46, name='Maria', cgpa=3.6},
+Students{id=35, name='Shafaet', cgpa=3.7}]
+---------------------------------------------------
+12
+ENTER John 3.75 50
+ENTER Mark 3.8 24
+ENTER Shafaet 3.7 35
+SERVED
+SERVED
+ENTER Samiha 3.85 36
+SERVED
+ENTER Ashley 3.9 42
+ENTER Maria 3.6 46
+ENTER Anik 3.95 49
+ENTER Anik 3.95 50
+SERVED
+---------------------
+priorityQueue:
+[Students{id=49, name='Anik', cgpa=3.95},
+Students{id=50, name='Anik', cgpa=3.95},
+Students{id=46, name='Maria', cgpa=3.6},
+Students{id=35, name='Shafaet', cgpa=3.7},
+Students{id=42, name='Ashley', cgpa=3.9}]
+
+priorityQueue:
+[Students{id=50, name='Anik', cgpa=3.95}, Students{id=42, name='Ashley', cgpa=3.9}, Students{id=46, name='Maria', cgpa=3.6}, Students{id=35, name='Shafaet', cgpa=3.7}]

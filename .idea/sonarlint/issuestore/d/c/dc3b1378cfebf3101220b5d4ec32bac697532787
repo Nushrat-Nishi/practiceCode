@@ -1,0 +1,12 @@
+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ø¬£–úÿÿÿÿ
+;squid:S1659"Declare "b" on a separate line.(®îŸÈ8øìÁØù+
+;squid:S1659"Declare "c" on a separate line.(®îŸÈ8øìÁØù+
+csquid:S2094"BRemove this empty class, write its code or make it an "interface".(¸Õ‘õüÿÿÿÿ8øìÁØù+
+¨squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(İ¾†„ûÿÿÿÿ8ÎÁÍØù+
+vsquid:S1488"[Immediately return this expression instead of assigning it to the temporary variable "ret".(«ŒÕ18™£ÂØù+
+csquid:S2094"BRemove this empty class, write its code or make it an "interface".(£±²àüÿÿÿÿ8øìÁØù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ÿ¯†²8™£ÂØù+
+¨squid:S2681"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(ãó¡»üÿÿÿÿ8ÎÁÍØù+
+^squid:S2094"BRemove this empty class, write its code or make it an "interface".(ºóõ8øìÁØù+

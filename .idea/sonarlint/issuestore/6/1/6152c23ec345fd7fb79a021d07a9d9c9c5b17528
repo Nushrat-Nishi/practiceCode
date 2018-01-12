@@ -1,0 +1,7 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥®Îâ8­ÍÂç+
+qsquid:S1149"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(èÑÁòþÿÿÿÿ8óåæÀç+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(±ìì•þÿÿÿÿ8å‡Àç+
+ysquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ÿ·ÇÏþÿÿÿÿ8ýžû¾ç+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(§Œæ¥8¼‚ÑÂç+

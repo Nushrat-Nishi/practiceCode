@@ -1,0 +1,12 @@
+
+Bsquid:S1481"&Remove this unused "M" local variable.(ã£­8ÇˆØù+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(äÓ¿Í8ÇˆØù+
+Usquid:S1161":Add the "@Override" annotation above this method signature(Ú¨¤^8ÇˆØù+
+Y
+squid:S106"9Replace this use of System.out or System.err by a logger.(‹”´Ïıÿÿÿÿ8ÇˆØù+
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ã£­8ÇˆØù+
+jsquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ú¨¤^8ÇˆØù+
+Usquid:S3400"9Remove this method and declare a constant for this value.(Øè¢Ã8ÇˆØù+
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(Ø¬£–úÿÿÿÿ
+Qsquid:S1854"5Remove this useless assignment to local variable "M".(ã£­8ÇˆØù+

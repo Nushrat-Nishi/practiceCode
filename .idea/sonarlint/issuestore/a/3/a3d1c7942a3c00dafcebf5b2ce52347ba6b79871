@@ -1,0 +1,3 @@
+
+‚"squid:ClassVariableVisibilityCheck"OMake str a static final constant or non-public and provide accessors if needed.(¼òšı8‰ªôÏü+
+zsquid:UselessImportCheck"QRemove this unnecessary import: java.lang classes are always implicitly imported.(°ûÜ¿8Ÿ°ØÏü+

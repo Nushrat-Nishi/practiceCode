@@ -1,0 +1,9 @@
+
+M
+squid:S106"9Replace this use of System.out or System.err by a logger.(Æò¼ô
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ã»Œ´þÿÿÿÿ
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë„ÜÆûÿÿÿÿ
+›squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¦â²½ýÿÿÿÿ
+rsquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ÒÇé„üÿÿÿÿ
