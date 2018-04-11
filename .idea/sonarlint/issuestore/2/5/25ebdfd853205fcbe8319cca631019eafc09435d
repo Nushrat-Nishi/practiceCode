@@ -1,17 +1,17 @@
 
-@squid:S1481"&Remove this unused "a" local variable.(©Ô†Ğıÿÿÿÿ
-R
-squid:S106"9Replace this use of System.out or System.err by a logger.(ë´¡Şøÿÿÿÿ
-Jsquid:S1854"5Remove this useless assignment to local variable "b".(–çÓĞ
+Osquid:S1854"5Remove this useless assignment to local variable "a".(©Ô†Ğıÿÿÿÿ
 msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ê€™
-@squid:UselessImportCheck"Remove this duplicated import.(÷‰îƒ
 Usquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ
-;squid:S1481"&Remove this unused "c" local variable.(Ä¤©
+@squid:S1481"&Remove this unused "a" local variable.(©Ô†Ğıÿÿÿÿ
+Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(õÉú²ûÿÿÿÿ
+Jsquid:S1854"5Remove this useless assignment to local variable "b".(–çÓĞ
+@squid:UselessImportCheck"Remove this duplicated import.(÷‰îƒ
 ;squid:S1481"&Remove this unused "b" local variable.(–çÓĞ
-Osquid:S1854"5Remove this useless assignment to local variable "a".(©Ô†Ğıÿÿÿÿ
 R
 squid:S106"9Replace this use of System.out or System.err by a logger.(è·Ôèÿÿÿÿÿ
-Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+;squid:S1481"&Remove this unused "c" local variable.(Ä¤©
+R
+squid:S106"9Replace this use of System.out or System.err by a logger.(ë´¡Şøÿÿÿÿ
 Jsquid:S1854"5Remove this useless assignment to local variable "c".(Ä¤©

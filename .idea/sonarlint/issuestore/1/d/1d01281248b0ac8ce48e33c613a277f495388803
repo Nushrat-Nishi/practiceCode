@@ -1,6 +1,6 @@
 
+Qsquid:S1610"7Convert the abstract class "TreeVis" into an interface.(ַÊÿחשÿÿÿÿ
+msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ך€™
+Usquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ׂÜֵ¸תÿÿÿÿ
 @squid:UselessImportCheck"Remove this duplicated import.(ק‰מƒ
 Rsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(ק‰מƒ
-msquid:S00120"WRename this package name to match the regular expression '^[a-z]+(\.[a-z][a-z0-9]*)*$'.(ך€™
-Qsquid:S1610"7Convert the abstract class "TreeVis" into an interface.(ַÊÿחשÿÿÿÿ
-Usquid:UselessImportCheck".Remove this unused import 'java.util.Scanner'.(ׂÜֵ¸תÿÿÿÿ
